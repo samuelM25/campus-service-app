@@ -32,8 +32,8 @@ class ContactController extends Controller
         $contact = new contact();
         $contact-> full_name = $request-> input('full_name');
         $contact-> campus_email = $request-> input('campus_email');
-        $contact->description = $request->input('description');
-        $contact -> meassage = $request ->input('message');
+        $contact->department = $request->input('department');
+        $contact -> message = $request ->input('message');
         $contact -> save();
 
         return redirect () ->back();

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Campus Service Portal | Campus helpdesk</title>
-    <meta name="description" content="Report a broken light, book a lecture hall, or get ICT help. Sign in with your campus email and follow your ticket until it is done.">
+    <meta name="department" content="Report a broken light, book a lecture hall, or get ICT help. Sign in with your campus email and follow your ticket until it is done.">
     <link rel="icon" type="image/png" href="assets/img/logo.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

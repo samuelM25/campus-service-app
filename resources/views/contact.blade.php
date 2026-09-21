@@ -68,7 +68,7 @@
                         </div>
                         <div>
                             <label for="department" class="block text-sm font-medium text-slate-600 mb-2">Department</label>
-                            <select id="department" name="description" required class="input-field">
+                            <select id="department" name="department" required class="input-field">
                                 <option value="">Choose one</option>
                                 <option value="estates">Estates</option>
                                 <option value="ict">ICT Supponrt</option>
